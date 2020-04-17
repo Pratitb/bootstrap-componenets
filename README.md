@@ -3,6 +3,9 @@
 Web Programming with Python and JavaScript
 
 I have created a four page profile of myself.
-Also, I have used bootstrap to make it responsive for small and large devices.
-I have also included some bootstrap components in it and using css and scss, I have tried to make it as beautiful/minimal as possible.
+
+I have used bootstrap to make it responsive for small and large devices.
+
+Also, I have also included some bootstrap components in it and using css and scss, I have tried to make it as beautiful/minimal as possible.
+
 Hope you like it!
