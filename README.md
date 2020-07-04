@@ -1,7 +1,5 @@
 # Project 0
 
-Web Programming with Python and JavaScript
-
 I have created a four page profile of myself.
 
 I have used bootstrap to make it responsive for small and large devices.
